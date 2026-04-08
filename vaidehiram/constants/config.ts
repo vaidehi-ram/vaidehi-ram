@@ -29,7 +29,7 @@ export const contact = {
  * For GitHub Project Pages this is often https://<user>.github.io/<repo>/
  */
 export const site = {
-  canonicalBaseUrl: 'https://vaidehi-ram.github.io/vaidehiram',
+  canonicalBaseUrl: 'https://vaidehi-ram.github.io/vaidehi-ram',
 } as const;
 
 export const seo = {
